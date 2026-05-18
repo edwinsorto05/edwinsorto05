@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Edwin 👋
+I'm a Computer Science student at UMass Boston, a rising senior, and a member of the Honors College, where I'm planning an AI-focused capstone and thesis project. I enjoy building programs frmo scheduling tools to simulation engines.
 
-<!--
-**edwinsorto05/edwinsorto05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 About Me
 
-Here are some ideas to get you started:
+- 🏫 Studying CS at UMass Boston
+- 🤖 Currently exploring AI and machine learning
+- 📊 Former Data Analytics Intern at Work-Based Learning Alliance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+**Languages:** Python, Java, JavaScript, C, HTML/CSS, SQL
+**Frameworks & Libraries:** React, Node.js, NumPy, Pandas, Matplotlib
+Tools: Git, GitHub, Linux, Bash, PostgreSQL
+
+🚀 Featured Projects
+**Global Game Scheduler** — A web-based tool that finds optimal meeting times across 10+ time zones using a UTC-conversion algorithm
+**Soccer Simulator** — A Python simulation engine that models full 90-minute soccer matches using probabilistic event generation and team attribute weighting
+
+📬 How to Reach Me
+
+📧 sortorosalesedwin@gmail.com
+
