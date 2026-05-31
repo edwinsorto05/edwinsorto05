@@ -12,8 +12,9 @@ I'm a Computer Science student at UMass Boston, a rising senior, and a member of
 
 **Languages:** Python, Java, JavaScript, C, HTML/CSS, SQL
 
-**Frameworks & Libraries:** React, Node.js, NumPy, Pandas, Matplotlib
-Tools: Git, GitHub, Linux, Bash, PostgreSQL
+**Frameworks & Libraries:** React, Node.js, NumPy, Pandas
+
+**Matplotlib Tools**: Git, GitHub, Linux, Bash, PostgreSQL
 
 🚀 Featured Projects
 
