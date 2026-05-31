@@ -1,6 +1,6 @@
 Hi, I'm Edwin 👋
 
-I'm a Computer Science student at UMass Boston, a rising senior, and a member of the Honors College, where I'm planning an AI-focused capstone and thesis project. I enjoy building programs frmo scheduling tools to simulation engines.
+I'm a Computer Science student at UMass Boston, a rising senior, and a member of the Honors College, where I'm planning an AI-focused capstone and thesis project. I enjoy building programs from scheduling tools to simulation engines.
 
 🎓 About Me
 
