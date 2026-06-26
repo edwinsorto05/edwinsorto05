@@ -8,10 +8,10 @@ web apps, NLP models, and simulation engines. I'm actively looking for a
 
 ## 🎓 About Me
 
-- 🏫 B.S. Computer Science @ UMass Boston · Expected May 2027
-- 🤖 Interests: Full-stack development, AI/ML, NLP, healthcare tech
-- 🏆 Competed at **CodaMetrix Calling Hackathon 2026** · Boston, MA
-- 📊 Former Data Analytics Intern · Work-Based Learning Alliance
+- B.S. Computer Science @ UMass Boston · Expected May 2027
+- Interests: Full-stack development, AI/ML, NLP, healthcare tech
+- Competed at **CodaMetrix Calling Hackathon 2026** · Boston, MA
+- Former Data Analytics Intern · Work-Based Learning Alliance
 
 ---
 
@@ -27,7 +27,7 @@ web apps, NLP models, and simulation engines. I'm actively looking for a
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🏥 [Clinical Note Classifier](https://github.com/edwinsorto05/clinical-note-classifier)
 NLP model classifying 1,000 clinical notes into 5 medical specialties using 
@@ -60,7 +60,7 @@ and real-time scoreboard.
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/edwinsorto05)
