@@ -10,6 +10,7 @@ web apps, NLP models, and simulation engines. I'm actively looking for a
 
 - B.S. Computer Science @ UMass Boston · Expected May 2027
 - Interests: Full-stack development, AI/ML, NLP, healthcare tech
+- Competed at **GDG Cloud Boston x Northeastern University Hackathon 2026** · Boston, MA
 - Competed at **CodaMetrix Calling Hackathon 2026** · Boston, MA
 - Former Data Analytics Intern · Work-Based Learning Alliance
 
